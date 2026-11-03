@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.pyc
+.venv/
+# Ignore local SQLite databases and data artifacts
+data/*.db
+*.db
